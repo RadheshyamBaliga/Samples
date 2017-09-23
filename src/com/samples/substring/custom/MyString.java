@@ -1,5 +1,10 @@
 package com.samples.substring.custom;
 
+/**
+ * Sample Custom String implementation
+ * @author amdin
+ *
+ */
 public class MyString {
 	
 	private String str;
